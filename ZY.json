@@ -1,10 +1,14 @@
-﻿
+
 {
-"spider":"https://raw.githubusercontent.com/GC-9120/json/main/ZY.jar",
-
-
-
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dDLTkxMjAvanNvbi9tYWluL1ZSVC50eHQ="]}]}],
+	"spider": "https://raw.githubusercontent.com/GC-9120/json/main/ZY.jar",
+	"wallpaper": "https://tool.weetai.cn/api",
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "live",
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dDLTkxMjAvanNvbi9tYWluL1ZSVC50eHQ="]
+		}]
+	}],
 
 
 "sites":[
