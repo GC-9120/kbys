@@ -1,10 +1,14 @@
 
 {
-"spider":"https://raw.githubusercontent.com/GC-9120/DISDY/main/YSHZ-main/YSHZ-main/app/src/main/ZY.jar",
-
-
-
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dDLTkxMjAvRElTRFkvbWFpbi9ZU0haLW1haW4vWVNIWi1tYWluL2FwcC9zcmMvbWFpbi9WJTJCLnR4dA=="]}]}],
+	"spider": "https://raw.githubusercontent.com/GC-9120/DISDY/main/YSHZ-main/YSHZ-main/app/src/main/ZY.jar",
+	"wallpaper": "https://tool.weetai.cn/api",
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "live",
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dDLTkxMjAvRElTRFkvbWFpbi9ZU0haLW1haW4vWVNIWi1tYWluL2FwcC9zcmMvbWFpbi9WJTJCLnR4dA=="]
+		}]
+	}],
 
 
 "sites":[
