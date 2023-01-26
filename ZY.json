@@ -1,16 +1,17 @@
-# CH猫友 配置地址 简易设定流程
-// 我的 --> 设置 -->  配置地址 --> 请输入 https://freed.yuanhsing.cf/TVBox/meowcf.json --> 确定
 
 {
 ## spider
 //"spider":"https://raw.githubusercontent.com/GC-9120/DISDY/main/ZY.jar",
-"spider":"https://raw.githubusercontent.com/GC-9120/DISDY/main/ZY.jar",
 
-# 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dDLTkxMjAvRElTRFkvbWFpbi9WJTJCLnR4dA=="]}]}],
+"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "live",
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dDLTkxMjAvRElTRFkvbWFpbi9WdC50eHQ="]
+		}]
+	}],
 
 "sites":[
-{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
