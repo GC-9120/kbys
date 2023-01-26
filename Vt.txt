@@ -1,7 +1,6 @@
 港台频道,#genre#
 TVB翡翠台,http://r.jdshipin.com/qClQf#http://baidu.douyincdn.freetvtv.com/jade/index.m3u8#http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 TVB明珠台,明珠台,http://r.jdshipin.com/ZQ4kN
-TVB华丽台,http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 星空卫视,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
