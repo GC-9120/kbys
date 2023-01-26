@@ -3,7 +3,7 @@
 "spider":"https://github.com/GC-9120/json/blob/main/ZY.jar",
 
 
-"lives":[{"group":"redirect","channels":[{"name":"VRT","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3dlbndlbjIwMTB3L1RWQm94L3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dDLTkxMjAvanNvbi9tYWluL1ZSVC50eHQ="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 
