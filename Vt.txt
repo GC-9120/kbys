@@ -1,4 +1,5 @@
 港台频道,#genre#
+创世频道,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 TVB翡翠台,http://r.jdshipin.com/qClQf#http://baidu.douyincdn.freetvtv.com/jade/index.m3u8#http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
