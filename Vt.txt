@@ -227,6 +227,13 @@ NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/
 惊艳翻唱,http://txtest-xp2p.p2p.huya.com/src/1099531753571-1099531753571-86439631331000320-2199063630598-10057-A-0-1.xs
 帅哥打碟,http://txtest-xp2p.p2p.huya.com/src/1099531740267-1099531740267-86382491086094336-2199063603990-10057-A-0-1.xs
 斗鱼音乐一FHD,http://epg.112114.xyz/douyu/9588891
+百视音乐,https://bp-caster.bestv.com.cn/894/3/video.m3u8
+百视天籁,https://bp-caster.bestv.com.cn/731/3/video.m3u8
+百视爱乐,https://bp-caster.bestv.com.cn/930/1/video.m3u8
+怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
+怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
 
 NewTV,#genre#
 NewTV东北热剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
