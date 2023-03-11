@@ -180,7 +180,36 @@ a.btn.btn-min.btn-gray:hover{box-shadow:inset 0 0 10px 0 #c0c0c0}
         </div> 
        </div> 
       </div> 
-    
+      <ul class="myui-header__user"> 
+       <li class="visible-xs"> <a class="open-search" href="javascript:;"><i class="fa fa-search"></i></a> </li> 
+       <li class="dropdown-hover"> <a href="javascript:;" title="播放记录"> <i class="fa fa-clock-o"></i></a> 
+        <div class="dropdown-box fadeInDown"> 
+         <div class="item clearfix"> 
+          <p class="text-muted"> <a class="text-red pull-right" href="javascript:;" onclick="MyTheme.Cookie.Del('history','您确定要清除记录吗？');">[清空]</a> 播放记录 </p> 
+          <div class="history-list clearfix"> 
+           <script type="text/javascript">
+										var history_get = MyTheme.Cookie.Get("history");
+										if(history_get){
+										    var json=eval("("+history_get+")");
+										    for(i=0;i<json.length;i++){
+										        document.write("<p><a class='text-333' href='"+json[i].link+"' title='"+json[i].name+"'><span class='pull-right text-red'>"+json[i].part+"</span>"+json[i].name+"</a></p>");
+										    }
+										} else {
+											document.write("<p style='padding: 80px 0; text-align: center'>您还没有看过影片哦</p>");
+									    }
+									</script> 
+          </div> 
+         </div> 
+        </div> </li> 
+       <li><a href="/gbook" title="留言反馈"><i class="fa fa-commenting"></i></a></li> 
+       <li> <a href="javascript:;" onclick="Myui.User.Login();"><i class="fa fa-user"></i></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </header> 
+  <script type="text/javascript">
+	MyTheme.Other.Headroom();
 </script> 
   <div class="container"> 
    <div class="row"> 
